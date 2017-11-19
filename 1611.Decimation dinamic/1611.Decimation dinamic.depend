@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1487657796 source:c:\users\alexb\desktop\ubb\1611.decimation dinamic\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

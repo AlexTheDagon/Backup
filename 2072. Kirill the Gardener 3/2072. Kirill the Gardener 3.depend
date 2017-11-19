@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1485787391 source:c:\users\alexb\desktop\ubb\2072. kirill the gardener 3\main.cpp
+	<iostream>
+	<algorithm>
+	<stdlib.h>
+

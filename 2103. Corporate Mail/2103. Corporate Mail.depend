@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1481405025 source:c:\users\alexb\desktop\ubb\2103. corporate mail\main.cpp
+	<iostream>
+	<algorithm>
+	<queue>
+	<math.h>
+

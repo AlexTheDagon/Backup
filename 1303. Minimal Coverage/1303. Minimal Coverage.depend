@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1488794336 source:c:\users\alexb\desktop\ubb\1303. minimal coverage\main.cpp
+	<iostream>
+	<algorithm>
+	<fstream>
+
