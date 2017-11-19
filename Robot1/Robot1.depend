@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1479833659 source:c:\users\alexb\desktop\ubb\robot1\main.cpp
+	<iostream>
+	<fstream>
+

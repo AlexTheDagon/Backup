@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1510865138 source:c:\users\alexb\desktop\ubb\ratina\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1455654158 source:c:\users\alexb\desktop\ubb\reactivi\main.cpp
+	<iostream>
+	<fstream>
+

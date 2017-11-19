@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1496934100 source:c:\users\alexb\desktop\ubb\rfinv\main.cpp
+	<iostream>
+	<fstream>
+

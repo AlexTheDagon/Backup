@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1490041673 source:c:\users\alexb\desktop\ubb\robotics\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+
