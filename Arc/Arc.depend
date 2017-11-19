@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1490126582 source:c:\users\alexb\desktop\ubb\arc\main.cpp
+	<iostream>
+	<fstream>
+
