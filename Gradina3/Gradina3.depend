@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1492112690 source:c:\users\alexb\desktop\ubb\gradina3\main.cpp
+	<iostream>
+	<fstream>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1463414077 source:c:\users\alexb\desktop\ubb\generare combinari\main.cpp
+	<iostream>
+	<fstream>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1489309235 source:c:\users\alexb\desktop\ubb\fmi adunare\main.cpp
+	<iostream>
+	<fstream>
+

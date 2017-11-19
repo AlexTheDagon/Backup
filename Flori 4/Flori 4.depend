@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1488709905 source:c:\users\alexb\desktop\ubb\flori 4\main.cpp
+	<iostream>
+	<fstream>
+

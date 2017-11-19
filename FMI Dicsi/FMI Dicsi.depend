@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1489310550 source:c:\users\alexb\desktop\ubb\fmi dicsi\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+

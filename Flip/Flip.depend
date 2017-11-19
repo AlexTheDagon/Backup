@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1481637417 source:c:\users\alexb\desktop\ubb\flip\main.cpp
+	<iostream>
+	<fstream>
+
