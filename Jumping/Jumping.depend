@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1509377903 source:c:\users\alexb\desktop\ubb\jumping\main.cpp
+	<iostream>
+	<fstream>
+	<bits/stdc++.h>
+

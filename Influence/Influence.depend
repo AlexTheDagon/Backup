@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1490023516 source:c:\users\alexb\desktop\ubb\influence\main.cpp
+	<iostream>
+	<vector>
+	<bitset>
+
