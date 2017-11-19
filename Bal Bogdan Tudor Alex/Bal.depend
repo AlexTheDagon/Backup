@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1506609315 source:c:\users\alexb\desktop\bal\main.cpp
+	<iostream>
+	<map>
+	<vector>
+	<fstream>
+

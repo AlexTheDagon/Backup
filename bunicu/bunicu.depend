@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1492166412 source:c:\users\alexb\desktop\ubb\bunicu\main.cpp
+	<iostream>
+	<fstream>
+	<bitset>
+
