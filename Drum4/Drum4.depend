@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1499343822 source:c:\users\alexb\desktop\ubb\drum4\main.cpp
+	<iostream>
+	<fstream>
+	<stack>
+	<vector>
+

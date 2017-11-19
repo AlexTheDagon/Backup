@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1509917192 source:c:\users\alexb\desktop\ubb\dreptunghiuri4\main.cpp
+	<iostream>
+	<fstream>
+	<bits/stdc++.h>
+

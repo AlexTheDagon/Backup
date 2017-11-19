@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1480491132 source:c:\users\alexb\desktop\ubb\domino v2\main.cpp
+	<iostream>
+	<fstream>
+	<stack>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1505989814 source:c:\users\alexb\desktop\info\ubb\d.jury meeting\main.cpp
+	<iostream>
+	<algorithm>
+	<queue>
+
