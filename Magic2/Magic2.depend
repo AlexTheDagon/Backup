@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1457702012 source:c:\users\alexb\desktop\ubb\magic2\main.cpp
+	<iostream>
+	<fstream>
+

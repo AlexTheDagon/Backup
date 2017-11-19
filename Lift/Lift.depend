@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1509180970 source:c:\users\alexb\desktop\ubb\lift\main.cpp
+	<iostream>
+	<fstream>
+

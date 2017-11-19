@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1459870272 source:c:\users\alexb\desktop\ubb\n intervale\main.cpp
+	<iostream>
+	<fstream>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1490622864 source:c:\users\alexb\desktop\ubb\movedel\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+

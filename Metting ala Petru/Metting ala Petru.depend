@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1481485847 source:c:\users\alexb\desktop\ubb\metting ala petru\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<queue>
+	<cctype>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1483351127 source:c:\users\alexb\desktop\ubb\lacusta\main.cpp
+	<iostream>
+	<fstream>
+

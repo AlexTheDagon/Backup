@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1482140579 source:c:\users\alexb\desktop\ubb\ksplit v3\main.cpp
+	<iostream>
+	<fstream>
+

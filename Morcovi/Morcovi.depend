@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1508578930 source:c:\users\alexb\desktop\ubb\morcovi\main.cpp
+	<iostream>
+	<fstream>
+	<bits/stdc++.h>
+
