@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1476515671 source:c:\users\alexb\desktop\ubb\taxe2\main.cpp
+	<iostream>
+	<fstream>
+

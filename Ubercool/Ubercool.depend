@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1481632517 source:c:\users\alexb\desktop\ubb\ubercool\main.cpp
+	<iostream>
+	<fstream>
+	<math.h>
+	<bitset>
+	<iomanip>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1481823214 source:c:\users\alexb\desktop\ubb\verificare functii char\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+

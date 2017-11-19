@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1477777089 source:c:\users\alexb\desktop\ubb\ternar\main.cpp
+	<iostream>
+	<fstream>
+

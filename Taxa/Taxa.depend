@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1487859401 source:c:\users\alexb\desktop\ubb\taxa\main.cpp
+	<iostream>
+	<fstream>
+	<functional>
+	<queue>
+

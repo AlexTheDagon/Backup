@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1497379606 source:c:\users\alexb\desktop\ubb\zmeu2\main.cpp
+	<iostream>
+	<queue>
+	<fstream>
+	<vector>
+	<functional>
+

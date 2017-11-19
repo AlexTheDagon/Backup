@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1477848309 source:c:\users\alexb\desktop\ubb\trompeta v2\main.cpp
+	<iostream>
+	<fstream>
+	<stack>
+

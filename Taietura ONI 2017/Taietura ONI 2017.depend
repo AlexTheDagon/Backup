@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1493115709 source:c:\users\alexb\desktop\ubb\taietura oni 2017\main.cpp
+	<iostream>
+	<fstream>
+	<map>
+

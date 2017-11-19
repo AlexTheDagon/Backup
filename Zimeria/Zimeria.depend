@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1491215588 source:c:\users\alexb\desktop\ubb\zimeria\main.cpp
+	<iostream>
+	<fstream>
+	<algorithm>
+

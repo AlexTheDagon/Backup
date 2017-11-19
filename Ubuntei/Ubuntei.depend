@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1509438007 source:c:\users\alexb\desktop\ubb\ubuntei\main.cpp
+	<iostream>
+	<fstream>
+	<bits/stdc++.h>
+	<bitset>
+
