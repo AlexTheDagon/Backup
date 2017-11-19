@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1476547946 source:c:\users\alexb\desktop\ubb\nc v2\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+

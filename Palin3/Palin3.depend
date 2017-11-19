@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1481631636 source:c:\users\alexb\desktop\ubb\palin3\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+

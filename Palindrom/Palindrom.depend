@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1509818493 source:c:\users\alexb\desktop\ubb\palindrom\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<bits/stdc++.h>
+

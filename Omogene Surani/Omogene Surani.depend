@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1488736030 source:c:\users\alexb\desktop\ubb\omogene surani\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+

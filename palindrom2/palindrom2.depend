@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1476630330 source:c:\users\alexb\desktop\ubb\palindrom2\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+

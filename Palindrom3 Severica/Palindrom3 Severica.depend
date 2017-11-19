@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1511094818 source:c:\users\alexb\desktop\ubb\palindrom3 severica\main.cpp
+	<iostream>
+	<fstream>
+

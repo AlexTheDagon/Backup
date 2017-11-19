@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1509463019 source:c:\users\alexb\desktop\ubb\ninjago\main.cpp
+	<iostream>
+	<fstream>
+	<bits/stdc++.h>
+
