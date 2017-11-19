@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1464710163 source:c:\users\alexb\desktop\ubb\piese\main.cpp
+	<iostream>
+	<fstream>
+

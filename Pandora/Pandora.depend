@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1488960803 source:c:\users\alexb\desktop\ubb\pandora\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	<ctime>
+	<cstdlib>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1489498411 source:c:\users\alexb\desktop\ubb\petrate2\main.cpp
+	<iostream>
+	<fstream>
+

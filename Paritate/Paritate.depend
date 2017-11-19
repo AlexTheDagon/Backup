@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1489610727 source:c:\users\alexb\desktop\ubb\paritate\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+

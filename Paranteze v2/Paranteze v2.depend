@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1479819061 source:c:\users\alexb\desktop\ubb\paranteze v2\main.cpp
+	<iostream>
+	<fstream>
+	<stack>
+

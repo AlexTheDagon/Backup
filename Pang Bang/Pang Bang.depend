@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1490020376 source:c:\users\alexb\desktop\ubb\pang bang\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+

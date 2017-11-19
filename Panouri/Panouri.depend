@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1491408256 source:c:\users\alexb\desktop\ubb\panouri\main.cpp
+	<iostream>
+	<fstream>
+

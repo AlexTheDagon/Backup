@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1489861650 source:c:\users\alexb\desktop\ubb\placare\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+
