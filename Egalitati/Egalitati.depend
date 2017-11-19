@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1478964505 source:c:\users\alexb\desktop\ubb\egalitati\main.cpp
+	<iostream>
+	<fstream>
+	<stack>
+

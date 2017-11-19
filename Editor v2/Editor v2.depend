@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1479667808 source:c:\users\alexb\desktop\ubb\editor v2\main.cpp
+	<iostream>
+	<fstream>
+	<stack>
+

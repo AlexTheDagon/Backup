@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1479753643 source:c:\users\alexb\desktop\ubb\expresii min-max\main.cpp
+	<iostream>
+	<fstream>
+	<stack>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1488550268 source:c:\users\alexb\desktop\ubb\evaluare2\main.cpp
+	<iostream>
+	<fstream>
+	<math.h>
+

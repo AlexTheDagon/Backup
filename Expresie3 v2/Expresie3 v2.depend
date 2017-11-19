@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1481320407 source:c:\users\alexb\desktop\ubb\expresie3 v2\main.cpp
+	<iostream>
+	<fstream>
+	<stack>
+

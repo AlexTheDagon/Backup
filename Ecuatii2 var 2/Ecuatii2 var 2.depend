@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1474820164 source:c:\users\alexb\desktop\ubb\ecuatii2 var 2\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+

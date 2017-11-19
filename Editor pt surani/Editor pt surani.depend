@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1478360950 source:c:\users\alexb\desktop\ubb\editor pt surani\main.cpp
+	<iostream>
+	<fstream>
+	<stack>
+

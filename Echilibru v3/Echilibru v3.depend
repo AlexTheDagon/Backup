@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1478278480 source:c:\users\alexb\desktop\ubb\echilibru v3\main.cpp
+	<iostream>
+	<fstream>
+
