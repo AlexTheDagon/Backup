@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1507215071 source:c:\users\alexb\desktop\culmi\main.cpp
+	<iostream>
+	<fstream>
+

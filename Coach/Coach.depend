@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1496929853 source:c:\users\alexb\desktop\ubb\coach\main.cpp
+	<iostream>
+	<fstream>
+	<algorithm>
+

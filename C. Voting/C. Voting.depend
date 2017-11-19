@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1482171131 source:c:\users\alexb\desktop\ubb\c. voting\main.cpp
+	<iostream>
+	<string.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1489049683 source:c:\users\alexb\desktop\ubb\c. andryusha and colored balloons\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

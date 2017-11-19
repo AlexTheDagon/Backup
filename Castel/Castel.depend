@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1492447225 source:c:\users\alexb\desktop\ubb\castel\main.cpp
+	<iostream>
+	<deque>
+	<fstream>
+

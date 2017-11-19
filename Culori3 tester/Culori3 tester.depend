@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1479628783 source:c:\users\alexb\desktop\ubb\culori3 tester\main.cpp
+	<iostream>
+	<fstream>
+

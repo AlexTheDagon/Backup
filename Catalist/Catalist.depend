@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1508518603 source:c:\users\alexb\desktop\ubb\catalist\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<fstream>
+	<algorithm>
+

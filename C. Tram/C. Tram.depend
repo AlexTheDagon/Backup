@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1482060088 source:c:\users\alexb\desktop\ubb\c. tram\main.cpp
+	<iostream>
+	<math.h>
+	<algorithm>
+

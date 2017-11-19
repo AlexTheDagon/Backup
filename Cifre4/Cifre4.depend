@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1477860256 source:c:\users\alexb\desktop\ubb\cifre4\main.cpp
+	<iostream>
+	<fstream>
+	<queue>
+

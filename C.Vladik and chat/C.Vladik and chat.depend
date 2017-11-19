@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1484470217 source:c:\users\alexb\desktop\ubb\c.vladik and chat\main.cpp
+	<iostream>
+	<map>
+	<cctype>
+

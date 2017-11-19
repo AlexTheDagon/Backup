@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1490688104 source:c:\users\alexb\desktop\ubb\cuburi3\main.cpp
+	<iostream>
+	<fstream>
+	<algorithm>
+	<functional>
+	<vector>
+
