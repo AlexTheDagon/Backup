@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1471465783 source:c:\users\alexb\desktop\ubb\problema rucsacului\main.cpp
+	<iostream>
+	<fstream>
+	<algorithm>
+

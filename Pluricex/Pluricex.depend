@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1490131196 source:c:\users\alexb\desktop\ubb\pluricex\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+

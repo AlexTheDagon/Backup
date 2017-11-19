@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1492028327 source:c:\users\alexb\desktop\ubb\poligon6\main.cpp
+	<iostream>
+	<map>
+	<fstream>
+	<math.h>
+	<vector>
+	<algorithm>
+

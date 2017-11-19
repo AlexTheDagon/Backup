@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1492516804 source:c:\users\alexb\desktop\ubb\prieteni eu\main.cpp
+	<iostream>
+	<fstream>
+	<algorithm>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1488993819 source:c:\users\alexb\desktop\ubb\profit\main.cpp
+	<iostream>
+	<fstream>
+	<algorithm>
+	<cstdlib>
+

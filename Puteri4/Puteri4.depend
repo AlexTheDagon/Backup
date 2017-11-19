@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1491211617 source:c:\users\alexb\desktop\ubb\puteri4\main.cpp
+	<iostream>
+	<fstream>
+	<cmath>
+
