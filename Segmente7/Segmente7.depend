@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1492110860 source:c:\users\alexb\desktop\ubb\segmente7\main.cpp
+	<iostream>
+	<fstream>
+

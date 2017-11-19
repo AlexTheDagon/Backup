@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1495461204 source:c:\users\alexb\desktop\ubb\royfloid\main.cpp
+	<iostream>
+	<fstream>
+

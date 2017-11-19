@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1475319409 source:c:\users\alexb\desktop\ubb\spirala2\main.cpp
+	<iostream>
+	<fstream>
+

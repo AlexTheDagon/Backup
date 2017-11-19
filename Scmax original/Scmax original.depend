@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1509431954 source:c:\users\alexb\desktop\ubb\scmax original\main.cpp
+	<iostream>
+	<fstream>
+	<bits/stdc++.h>
+

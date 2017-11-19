@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1490040161 source:c:\users\alexb\desktop\ubb\subgeom\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1488729936 source:c:\users\alexb\desktop\ubb\stiva3\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<stack>
+

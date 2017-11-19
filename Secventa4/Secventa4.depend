@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1488878539 source:c:\users\alexb\desktop\ubb\secventa4\main.cpp
+	<iostream>
+	<cmath>
+	<fstream>
+	<queue>
+	<functional>
+
