@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1457171721 source:c:\users\alexb\desktop\ubb\and2\main.cpp
+	<iostream>
+	<fstream>
+	<ctime>
+	<cstdlib>
+

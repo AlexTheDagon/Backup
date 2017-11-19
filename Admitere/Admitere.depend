@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1490266334 source:c:\users\alexb\desktop\ubb\admitere\main.cpp
+	<iostream>
+	<fstream>
+	<algorithm>
+

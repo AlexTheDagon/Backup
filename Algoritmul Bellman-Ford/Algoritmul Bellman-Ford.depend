@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1487600816 source:c:\users\alexb\desktop\ubb\algoritmul bellman-ford\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<queue>
+	<bitset>
+

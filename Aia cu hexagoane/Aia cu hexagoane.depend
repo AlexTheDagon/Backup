@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1491903530 source:c:\users\alexb\desktop\ubb\aia cu hexagoane\main.cpp
+	<iostream>
+	<fstream>
+
